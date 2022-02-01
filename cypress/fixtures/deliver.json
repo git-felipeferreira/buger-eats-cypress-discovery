@@ -1,0 +1,47 @@
+{
+    "signup": {
+        "name": "Felipe Ferreira",
+        "cpf": "39638728884",
+        "email": "felipeferreira___@outlook.com",
+        "whatsapp": "16996349690",
+        "address": {
+            "postalcode": "14806763",
+            "street": "Rua Matteo Donato",
+            "district": "Jardim Adalberto Frederico de Oliveira Roxo I",
+            "city_state": "Araraquara/SP",
+            "number": "110"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Felipe Ferreira",
+        "cpf": "39638728AAA",
+        "email": "felipeferreira___@outlook.com",
+        "whatsapp": "16996349690",
+        "address": {
+            "postalcode": "14806763",
+            "street": "Rua Matteo Donato",
+            "district": "Jardim Adalberto Frederico de Oliveira Roxo I",
+            "city_state": "Araraquara/SP",
+            "number": "110"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Felipe Ferreira",
+        "cpf": "39638728884",
+        "email": "felipeferreira.com.br",
+        "whatsapp": "16996349690",
+        "address": {
+            "postalcode": "14806763",
+            "street": "Rua Matteo Donato",
+            "district": "Jardim Adalberto Frederico de Oliveira Roxo I",
+            "city_state": "Araraquara/SP",
+            "number": "110"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
